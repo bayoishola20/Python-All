@@ -13,6 +13,8 @@ Tips, Tricks and Thoughts
 
 ## Topics Consideration
 
+* Data Structures
+* Algorithms
 * OOP
 * Machine Learning
 * Geoprocessing
