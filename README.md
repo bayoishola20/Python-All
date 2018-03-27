@@ -10,11 +10,9 @@ Tips, Tricks and Thoughts
 
 &rightarrow;
 
-
 ## Topics Consideration
 
-* Data Structures
-* Algorithms
+* Data Structure Algorithms
 * OOP
 * Machine Learning
 * Geoprocessing
@@ -23,4 +21,6 @@ Tips, Tricks and Thoughts
 
 Inspired by several online resources and personal encounters. :wink:
 
-PS. Ubuntu is the OS used.
+PS. Ubuntu is the OS used. To check time of execution (real, user and sys), in terminal, type `time python file.py`
+
+For better info on script execution, type in terminal, `python -m cProfile file.py`
