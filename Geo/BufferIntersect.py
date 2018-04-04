@@ -24,4 +24,4 @@ gp=arcgisscripting.create()
 
 except:
     #If an error occured while running a tool, print the messages.
-                   print gp.GetMessages()
+    print gp.GetMessages()
