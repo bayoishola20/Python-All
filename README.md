@@ -8,7 +8,13 @@ Tips, Tricks and Thoughts
 
 ## Additional Libraries Used
 
-&rightarrow;
+&rightarrow; `sudo pip install sklearn`
+
+&rightarrow; `sudo pip install pandas`
+
+&rightarrow; `sudo pip install quandl`
+
+* Upgrade pip using: `sudo pip install --upgrade pip`
 
 ## Topics Consideration
 
