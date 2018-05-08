@@ -1,6 +1,8 @@
 import pandas as pd
-import quandl
-import math
+import quandl, math
+import numpy as np
+from sklearn import preprocessing, svm, model_selection
+from sklearn.linear_model import LinearRegression
 
 # df = data frames
 
@@ -26,3 +28,23 @@ df.dropna(inplace=True)
 print df.tail()
 
 # print df.head()
+
+# Features = X , label = y
+
+X = np.array(df.drop(['label'], 1))
+y = np.array(df['label'])
+
+X = preprocessing.scale(X)
+y = np.array(df['label'])
+
+X_sample, X_test, y_sample, y_test = model_selection.train_test_split(X, y, test_size=0.2)
+
+# Classifies
+clf = LinearRegression()
+clf.fit(X_sample, y_sample)
+
+# accuracy
+acc = clf.score(X_test, y_test)
+print acc
+
+#
