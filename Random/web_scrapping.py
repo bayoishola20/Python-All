@@ -10,5 +10,6 @@ soup = bs4.BeautifulSoup(req.text, 'lxml')
 type(soup)
 
 links = soup.select('img')
+
 for link in links:
-    print(link, '\n')
+    print(link, end='\n')
