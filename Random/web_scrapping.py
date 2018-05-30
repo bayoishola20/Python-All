@@ -1,15 +1,15 @@
 # python3 web_scrapping.py
 import requests
-import bs4 #beautifulsoup
+from bs4 import BeautifulSoup as soup
 
 req = requests.get('https://learncodeonline.in/')
 type(req)
 # req.text
 
-soup = bs4.BeautifulSoup(req.text, 'lxml')
-type(soup)
+site = soup(req.text, 'lxml')
+type(site)
 
-links = soup.select('img')
+links = site.select('img')
 
 for link in links:
     print(link, end='\n')
