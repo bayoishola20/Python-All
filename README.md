@@ -14,7 +14,11 @@ Tips, Tricks and Thoughts
 
 &rightarrow; `sudo pip install quandl`
 
+&rightarrow; `sudo apt-get install python-scipy`
+
 * Upgrade pip using: `sudo pip install --upgrade pip`
+
+* To list local installed python modules `pydoc modules`
 
 ## Topics Consideration
 

@@ -18,9 +18,11 @@ df['PCT_change'] = ((df['Adj. Close'] - df['Adj. Open']) / df['Adj. Open']) * 10
 df = df[['Adj. Close','HL_PCT','PCT_change', 'Adj. Volume']] # features
 
 forecast_col = 'Adj. Close'
-df.fillna(-99999, inplace=True)
+df.fillna(-99999, inplace=True) # handling NANs
 
 forecast_out = int(math.ceil(0.01*len(df)))
+
+print "Forecast for ", forecast_out, "days"
 
 df['label'] = df[forecast_col].shift(-forecast_out) # labels
 df.dropna(inplace=True)
@@ -40,11 +42,12 @@ y = np.array(df['label'])
 X_sample, X_test, y_sample, y_test = model_selection.train_test_split(X, y, test_size=0.2)
 
 # Classifies
-clf = LinearRegression()
+clf = LinearRegression(n_jobs=2) # Regression | n_jobs default is 1 and -1 is for the end
+# clf = svm.SVR() # SVM
 clf.fit(X_sample, y_sample)
 
 # accuracy
-acc = clf.score(X_test, y_test)
-print acc
+acc = clf.score(X_test, y_test) # test
+print "Accuracy is ", acc
 
 #
