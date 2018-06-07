@@ -74,6 +74,7 @@ for i in forecast_set:
     df.loc[next_date] = [np.nan for _ in xrange(len(df.columns)-1)] + [i]
 
 # print df.head()
+# print df.tail()
 
 df['Adj. Close'].plot()
 df['Forecast'].plot()
