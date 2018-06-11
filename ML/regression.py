@@ -4,6 +4,7 @@ import numpy as np
 from sklearn import preprocessing, svm, model_selection
 from sklearn.linear_model import LinearRegression
 from matplotlib import pyplot, style
+import pickle
 
 style.use('ggplot')
 
@@ -43,14 +44,20 @@ X_lately = X[-forecast_out:]
 
 df.dropna(inplace=True)
 y = np.array(df['label'])
-y = np.array(df['label'])
 
 X_sample, X_test, y_sample, y_test = model_selection.train_test_split(X, y, test_size=0.2)
 
 # Classifies
-clf = LinearRegression(n_jobs=2) # Regression | n_jobs default is 1 and -1 is for the end
+clf = LinearRegression(n_jobs=-1) # Regression | n_jobs default is 1 and -1 is for the end
+
 # clf = svm.SVR() # SVM
 clf.fit(X_sample, y_sample)
+
+with open('ML/linear_regression.pickle', 'wb') as f:
+    pickle.dump(clf, f)
+
+pickle_in = open('ML/linear_regression.pickle', 'rb')
+clf = pickle.load(pickle_in)
 
 # accuracy
 acc = clf.score(X_test, y_test) # test
