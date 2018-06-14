@@ -20,13 +20,26 @@ def bf(xs, ys):
 
     return m, b
 
-m,b = bf(xs, ys)
-print m,b
+print "slope %f, y-intercept %f" %(bf(xs, ys))
+
+# r squared
+
+def squared_error(ys_orig, ys_line):
+    return sum((ys_line - ys_orig)**2)
+
+def coef_of_det(ys_orig, ys_line):
+    y_mean_line = [mean(ys_orig) for y in ys_orig]
+    squared_error_regr = squared_error(ys_orig, ys_line)
+    squared_error_y_mean = squared_error(ys_orig, y_mean_line)
+    return 1 - (squared_error_regr/squared_error_y_mean)
 
 reg_line = [(m*x) + b for x in xs]
 
 predict_x = 8
 predict_y = (m * predict_x) + b
+
+r_squared = coef_of_det(ys, reg_line)
+print "R squared ", r_squared
 
 # plt.plot(xs, ys)
 plt.scatter(xs, ys)
