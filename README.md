@@ -27,6 +27,10 @@ Tips, Tricks and Thoughts
 * Machine Learning
 * Geoprocessing
 
+## Datasets
+
+&rarr; [Machine Learning Datasets](http://archive.ics.uci.edu/ml/datasets.html)
+
 [bayoishola20](bayoishola20.github.io)
 
 Inspired by several online resources and personal encounters. :wink:
