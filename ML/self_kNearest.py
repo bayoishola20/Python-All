@@ -86,5 +86,3 @@ for i in xrange(5): #5 is number of iterations for test
     accuracies.append(correct/total)
 
 print sum(accuracies)/len(accuracies)
-
-#19
