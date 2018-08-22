@@ -24,10 +24,3 @@ clf.fit(X_sample, y_sample)
 
 accuracy = clf.score(X_test, y_test)
 print "Accuracy is: ", accuracy
-
-""" example_measures = np.array([[7,2,1,2,2,8,3,1,2],[8,2,1,9,2,8,3,1,4]])
-example_measures = example_measures.reshape(len(example_measures),-1)
-
-pred = clf.predict(example_measures)
-
-print pred """
