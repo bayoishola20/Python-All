@@ -24,3 +24,10 @@ clf.fit(X_sample, y_sample)
 
 accuracy = clf.score(X_test, y_test)
 print "Accuracy is: ", accuracy
+
+
+#========================================
+    # Sequential Minimal Optimization
+    # Common alternative for SVM today
+    # Also CVXOPT
+#========================================
