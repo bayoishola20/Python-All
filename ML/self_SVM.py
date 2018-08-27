@@ -45,7 +45,20 @@ class Support_Vector_Machine:
 
             optimized = False
             while not optimized:
-                pass
+                for b in np.arange( -1*(self.max_feature_value*b_range_multiple), self.max_feature_value*b_range_multiple, step*b_multiple ):
+                    for transformation in transforms:
+                        w_t = w*transformation
+                        found_option = True
+                        # yi(xi.w + b) >= 1
+                        for i in self.data:
+                            for xi in self.data[i]:
+                                yi = i
+                                if not yi * ( np.dot(w_t, xi)+b ) >= 1:
+                                    found_option = False
+                        
+                        if found_option:
+                            opt_dict[np.linalg.norm(w_t) = [w_t, b]]
+                                
     
     def predict(self, features):
         # sign(x.w + b)
