@@ -38,3 +38,11 @@ Inspired by several online resources and personal encounters. :wink:
 PS. Ubuntu is the OS used. To check time of execution (real, user and sys), in terminal, type `time python file.py`
 
 For better info on script execution, type in terminal, `python -m cProfile file.py`
+
+Check python package versions in terminal
+
+`$ python`
+
+`>>> import numpy`
+
+`>>> print 'numpy version: %s' %numpy.__version__`
