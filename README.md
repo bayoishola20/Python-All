@@ -16,6 +16,8 @@ Tips, Tricks and Thoughts
 
 &rightarrow; `sudo apt-get install python-scipy`
 
+&rightarrow; `sudo pip install cvxopt`
+
 * Upgrade pip using: `sudo pip install --upgrade pip`
 
 * To list local installed python modules `pydoc modules`
