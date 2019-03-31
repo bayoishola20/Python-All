@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- spatio temporal time series visalization -->
+<!-- location and parametervalues change over time -->
+
+<!-- noUiSlider used in this example -->
+<!-- https://refreshless.com/nouislider/ -->
+
+<head>
+    <meta charset="utf-8">
+
+    <title>geoTimeFilter</title>
+
+    <link href="css/nouislider.min.css" rel="stylesheet">
+
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="libs/utils.js"></script>
+    <script src="libs/nouislider.min.js"></script>
+
+    <style type="text/css">
+        body {
+            /* font-family: sans-serif; */
+            padding: 25px;
+        }
+        
+        .sliderContainer {
+            width: 1000px;
+        }
+        
+        .left {
+            float: left;
+        }
+        
+        .right {
+            float: right;
+        }
+        
+        #sliderP {
+            width: 1000px;
+        }
+        
+        .noUi-connect {
+            background: #D1D1D1;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- bootstrap 4 based tabs -->
+    <h1>Geospatial Time Filter</h1>
+
+            <div class="mapContainer" id="map"></div>
+            <!-- noUiSlider -->
+            <div>
+                <div class="sliderContainer" id="mySlider"></div>
+                <div>
+                    <p></p>
+                    <p id="sliderP">
+                        <span class="left" id="startEvent">start*event</span>
+                        <span class="right" id="endEvent">end*event</span>
+                    </p>
+                </div>
+            </div>
+
+    <script type="text/javascript">
+	
+		// **************************
+        // your script code goes here
+		// **************************
+    
+	</script>
+</body>
+
+</html>
