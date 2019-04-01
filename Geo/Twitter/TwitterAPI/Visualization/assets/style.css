@@ -1,23 +1,24 @@
 body {
     font-family: 'ZCOOL XiaoWei', 'Roboto', sans-serif;
-    padding: 25px;
-    background-color: rgb(224, 224, 224);
+    /* padding: 25px; */
+    background-color: rgb(253, 253, 253);
+    /* overflow-x: hidden; */
 }
 
 .sliderContainer {
-    width: 1000px;
+    width: 100%;
 }
 
-.left {
+/* .left {
     float: left;
 }
 
 .right {
     float: right;
-}
+} */
 
 #sliderP {
-    width: 1000px;
+    width: 100%;
 }
 
 .noUi-connect {
