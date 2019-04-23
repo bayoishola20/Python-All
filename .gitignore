@@ -1,2 +1,3 @@
 *.pyc
-./Geo/Twitter/config.py
+config.py
+__pycache__
