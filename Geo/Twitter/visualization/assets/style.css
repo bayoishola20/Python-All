@@ -1,0 +1,18 @@
+body {
+    font-family: 'ZCOOL XiaoWei', 'Roboto', sans-serif;
+    /* padding: 25px; */
+    background-color: rgb(253, 253, 253);
+    /* overflow-x: hidden; */
+}
+
+.sliderContainer {
+    width: 100%;
+}
+
+#sliderP {
+    width: 100%;
+}
+
+.noUi-connect {
+    background: #D1D1D1;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- spatio temporal time series visalization -->
+<!-- location and parametervalues change over time -->
+
+<!-- noUiSlider used in this example -->
+<!-- https://refreshless.com/nouislider/ -->
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Tweet Time Filter</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/13.1.4/nouislider.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei|Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="assets/style.css" rel="stylesheet">
+    
+</head>
+
+<body>
+    <div class="container">
+
+        <h1 class="text-lg-center">Tweet Time Filter</h1>
+        
+        <div class="row">
+            <div class="mapContainer col-md-8" id="map"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div class="sliderContainer" id="mySlider"></div>
+                <div>
+                    <p></p>
+                    <p id="sliderP">
+                        <span class="float-left" id="startEvent"></span>
+                        <span class="float-right" id="endEvent"></span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="./utils.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/13.1.4/nouislider.min.js"></script>
+    <script src="assets/script.js"></script>
+</body>
+
+</html>
