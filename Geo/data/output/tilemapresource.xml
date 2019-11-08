@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>lasvegas_tm5_07jun04_crop_geo.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-115.43289575727951" miny="35.72413746585807" maxx="-114.70333563809982" maxy="36.31690303513612"/>
+      <Origin x="-115.43289575727951" y="35.72413746585807"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
+      </TileSets>
+    </TileMap>
+    
