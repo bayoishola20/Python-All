@@ -1,6 +1,6 @@
 # Depth First Search - Credit: https://www.youtube.com/watch?v=QVcsSaGeSH0
 
-class Vertex:
+class Node:
     def __init__(self, n):
         self.name = n
         self.neighbors = list()
@@ -15,39 +15,39 @@ class Vertex:
 
 
 class Graph:
-    vertices = {} # dictionary to store vertices in the graph
+    nodes = {} # dictionary to store nodes in the graph
 
-    def add_vertex(self, vertex):
-        if isinstance(vertex, Vertex) and vertex.name not in self.vertices:
-            self.vertices[vertex.name] = vertex
+    def add_node(self, node):
+        if isinstance(node, Node) and node.name not in self.nodes:
+            self.nodes[node.name] = node
             return True
         else:
             return False
     
-    def add_edge(self, u, v):
-        if u in self.vertices and v in self.vertices:
-            for key, value in self.vertices.items():
-                if key == u:
-                    value.add_neighbor(v)
-                if key == v:
-                    value.add_neighbor(u)
+    def add_edge(self, x, y):
+        if x in self.nodes and y in self.nodes:
+            for key, value in self.nodes.items():
+                if key == x:
+                    value.add_neighbor(y)
+                if key == y:
+                    value.add_neighbor(x)
             return True
         else:
             return False
     
     def print_graph(self):
-        for key in sorted( list( self.vertices.keys() ) ):
-            print "node '" + key + "' has neighbors " + str(self.vertices[key].neighbors)
+        for key in sorted( list( self.nodes.keys() ) ):
+            print "node '" + key + "' has neighbors " + str(self.nodes[key].neighbors)
 
 g = Graph()
 # print str( len(g.vertices) )
 
-a = Vertex('A')
-g.add_vertex(a)
-g.add_vertex( Vertex('B') )
+g.add_node( Node('A') )
+
+g.add_node( Node('B') )
 
 for i in range( ord('A'), ord('K') ):
-    g.add_vertex( Vertex( chr(i) ) )
+    g.add_node( Node( chr(i) ) )
 
 edges = [ 'AC', 'AG', 'BE', 'CG', 'CF', 'DH', 'EJ', 'FJ', 'GC', 'HF', 'ID', 'JC' ]
 
