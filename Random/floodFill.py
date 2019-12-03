@@ -48,16 +48,16 @@ class Solution(object):
                 image[sr][sc] = newColor # set pixel to new colour based on the below conditions
                 
                 if sr >= 1:
-                    dfs(sr-1, sc) # to the west
+                    dfs(sr-1, sc) # to the north
                     
                 if sr+1 < r:
-                    dfs(sr+1, sc) # to the east
+                    dfs(sr+1, sc) # to the south
                     
                 if sc >= 1:
-                    dfs(sr,sc-1) # to the north
+                    dfs(sr,sc-1) # to the west
                     
                 if sc+1 < c:
-                    dfs(sr,sc+1) # to the south
+                    dfs(sr,sc+1) # to the east
                     
         dfs(sr,sc)
         
