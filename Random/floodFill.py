@@ -54,10 +54,10 @@ class Solution(object):
                     dfs(sr+1, sc) # to the east
                     
                 if sc >= 1:
-                    dfs(sr,sc-1) # to the south
+                    dfs(sr,sc-1) # to the north
                     
                 if sc+1 < c:
-                    dfs(sr,sc+1) # to the north
+                    dfs(sr,sc+1) # to the south
                     
         dfs(sr,sc)
         
