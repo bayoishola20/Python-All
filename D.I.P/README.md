@@ -6,6 +6,10 @@
 
 - [x] [**Sum of Squares**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/3_DP_Sum_Squares.py) : Given a number n, find the least number of squares needed to sum up to the number.
 
+- [x] [**Anagrams**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/4_DP_Anagrams_String.py) : Given 2 strings s and t, find and return all indexes in string s where t is an anagram.
+
 
 
 [bayoishola20](bayoishola20.github.io)
+
+Credit: Several online and email subscription resources
