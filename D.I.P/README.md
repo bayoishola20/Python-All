@@ -8,6 +8,8 @@
 
 - [x] [**Anagrams**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/4_DP_Anagrams_String.py) : Given 2 strings s and t, find and return all indexes in string s where t is an anagram.
 
+- [x] [**Square root**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/5_Square_root.py) : Given a positive integer, find the square root of the integer without using any built in square root or power functions. Give accuracy up to 3 decimal points.
+
 
 
 [bayoishola20](bayoishola20.github.io)

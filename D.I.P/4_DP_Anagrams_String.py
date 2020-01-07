@@ -23,7 +23,6 @@ def find_anagrams(s, t):
                     temp_dict[k] = 1
                 else:
                     temp_dict[k] += 1
-                    print temp_dict[k]
         else:
             temp_dict[ s[j-1] ] -= 1
             if s[j+T-1] in temp_dict:
@@ -37,8 +36,7 @@ def find_anagrams(s, t):
                 fit = False
                 break
         if fit:
-            ans += j,
-    
+            ans += j, # trailing comma because that is how a single element tuple is stored
     return ans
 
 
