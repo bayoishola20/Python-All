@@ -12,7 +12,8 @@
 
 - [x] [**Two sum**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/6_DP_Two_Sum.py) : You are given a list of numbers, and a target number k. Return whether or not there are two numbers in the list that add up to k.
 
+- [x] [**Reverse Integer**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/7_DP_Reverse_Integer.py.py) : Write a function that reverses the digits a 32-bit signed integer, x. The function returns 0 when the reversed integer overflows.
 
-[bayoishola20](bayoishola20.github.io)
+[bayoishola20](http://bayoishola20.github.io)
 
 Credit: Several online and email subscription resources
