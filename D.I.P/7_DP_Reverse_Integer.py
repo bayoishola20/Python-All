@@ -6,7 +6,7 @@ Output: 321 """
 
 class Solution:
     def reverse(self, x):
-        return "test"
+        return "will get back to this"
 
 print Solution().reverse(123)
 # 321
