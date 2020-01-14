@@ -16,3 +16,21 @@ aDict = {"first": 22,
 
 for k in aDict:
     print k, aDict[k]
+
+
+
+print "\n"
+
+print 0b10 # binary, base 2
+
+print "\n"
+
+print 0o10 # Octadecimal, base 8
+
+print "\n"
+
+print 0x10 # Hexadecimal, base 16
+
+print "\n"
+
+print .4e7
