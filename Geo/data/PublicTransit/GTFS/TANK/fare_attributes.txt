@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+100,1.00,USD,0,0,0 
+150,1.50,USD,0,1,0 
+200,2.00,USD,0,1,0 

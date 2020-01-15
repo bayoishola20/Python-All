@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+Transit Authority of Northern Kentucky,Transit Authority of Northern Kentucky,http://www.tankbus.org,America/New_York,en,859-331-TANK,http://www.tankbus.org/rider-information/fare-structure.aspx

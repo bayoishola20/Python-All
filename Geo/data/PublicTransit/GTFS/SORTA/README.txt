@@ -1,0 +1,1 @@
+This GTFS dataset is from the Southwest Ohio Regional Transit Authority (SORTA/Metro) and was downloaded on April 11, 2019, from http://www.go-metro.com/about-metro/developer-data.

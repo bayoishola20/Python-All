@@ -1,0 +1,202 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,SORTA,1,Mt. Adams Eden Park,,3,,FF4AFF,000000
+100,SORTA,100,Streetcar,,0,,FF0000,000000
+11,SORTA,11,Madison Road - Hyde Park - Erie,,3,,8672E2,000000
+1111,SORTA,1111,Madison - Winton - Mt Airy,,3,,008000,000000
+1112,SORTA,1112,Madison - Hamilton - Kings Run,,3,,008000,000000
+1121,SORTA,1121,Madison - Madisonville,,3,,008000,000000
+1131,SORTA,1131,Madison - Price Hill - Cheviot,,3,,008000,000000
+1132,SORTA,1132,Madison - Baltimore - McHenry,,3,,008000,000000
+1133,SORTA,1133,Madison - Highland - Beekman,,3,,008000,000000
+1141,SORTA,1141,Madison - Evanston - Avondale,,3,,008000,000000
+1142,SORTA,1142,Madison - N. Avondale - Mt Auburn,,3,,008000,000000
+1151,SORTA,1151,Madison - Queen City - Harrison,,3,,008000,000000
+1152,SORTA,1152,Madison - Glenway - Montana,,3,,008000,000000
+1161,SORTA,1161,Madison - Hartwell - Carthage,,3,,008000,000000
+1162,SORTA,1162,Madison - Bond Hill - Roselawn,,3,,008000,000000
+1163,SORTA,1163,Madison - Reading Rd. - Roselawn,,3,,008000,000000
+1171,SORTA,1171,Madison - Golf Manor - Ridge,,3,,008000,000000
+1172,SORTA,1172,Madison - Silverton - Kennedy,,3,,008000,000000
+12,SORTA,12X,Madisonville Express,,3,,D82758,000000
+14,SORTA,14X,Forest Park Express,,3,,FF48FF,000000
+15,SORTA,15X,Mt Healthy Express,,3,,DF20BE,000000
+16,SORTA,16,Mt Healthy - Spring Grove Ave,,3,,FF0000,000000
+17,SORTA,17,Hamilton Avenue,,3,,5353FF,000000
+1711,SORTA,1711,Belmont - Winton Terrace,,3,,008080,000000
+1712,SORTA,1712,Belmont - Winton Hills - Vine St.,,3,,008080,000000
+1731,SORTA,1731,Belmont - McHenry - Winton,,3,,008080,000000
+1732,SORTA,1732,Belmont - Beekman - Harrison,,3,,008080,000000
+1733,SORTA,1733,Belmont - E Westwood - Northside,,3,,008080,000000
+1741,SORTA,1741,Belmont - Clifton - Avondale,,3,,008080,000000
+1742,SORTA,1742,Belmont - Clifton - Walnut Hills,,3,,008080,000000
+1751,SORTA,1751,Belmont - Cheviot - Price Hill,,3,,008080,000000
+1752,SORTA,1752,Belmont - Montana - Glenway,,3,,008080,000000
+1761,SORTA,1761,Belmont - Camp Washington - Hartwel,,3,,008080,000000
+1762,SORTA,1762,Belmont - Hartwell - Bond Hill,,3,,008080,000000
+1791,SORTA,1791,Belmont - Liberty - Mt. Auburn,,3,,008080,000000
+19,SORTA,19,Colerain - Northgate,,3,,FF7B1A,000000
+2,SORTA,2X,Madeira - Kenwood Express,,3,,F94266,000000
+20,SORTA,20,Winton Rd - Tri - County,,3,,AF5C01,000000
+2001,SORTA,2001,North Bend - Hyde Park - Beechmont,,3,,808000,000000
+2031,SORTA,2031,North Bend - Covedale - Cheviot,,3,,808000,000000
+21,SORTA,21,Westwood - Harrison Avenue,,3,,9C4E3A,000000
+2111,SORTA,2111,Westwood Northern - Winton Terrace,,3,,00B700,000000
+2112,SORTA,2112,Westwood Northern - College Hill,,3,,00B700,000000
+2121,SORTA,2121,Westwood Northern - Madisonville,,3,,00B700,000000
+2131,SORTA,2131,Westwood Northern - Westwood,,3,,00B700,000000
+2141,SORTA,2141,Westwood Northern - Walnut Hills,,3,,00B700,000000
+2151,SORTA,2151,Westwood Northern - Price Hill,,3,,00B700,000000
+2161,SORTA,2161,Westwood Northern - Roselawn,,3,,00B700,000000
+23,SORTA,23X,Tri - County - Forest Park Express,,3,,B800F4,000000
+24,SORTA,24,Mt Washington - Uptown,,3,,2E72A9,000000
+2401,SORTA,2401,Erie - Mt Washginton,,3,,80FF80,000000
+2411,SORTA,2411,Erie - Winton - Mt Airy,,3,,80FF80,000000
+2412,SORTA,2412,Erie - College Hill - Winton,,3,,80FF80,000000
+2421,SORTA,2421,Erie - Madisonville - Silverton,,3,,80FF80,000000
+2431,SORTA,2431,Erie - Harrison - Glenway,,3,,80FF80,000000
+2432,SORTA,2432,Erie - Queen City - Montana,,3,,80FF80,000000
+2451,SORTA,2451,Erie - Price Hill - Cheviot,,3,,80FF80,000000
+2461,SORTA,2461,Erie - Bond Hill - Hartwell,,3,,80FF80,000000
+2471,SORTA,2471,Erie - Kennedy Hts - Golf Manor,,3,,80FF80,000000
+25,SORTA,25X,Mt Lookout - Hyde Park Express,,3,,ED496A,000000
+27,SORTA,27,Northside - Casey,,3,,FF8040,000000
+28,SORTA,28,Madisonville - East End,,3,,E19D37,000000
+29,SORTA,29X,Milford Express,,3,,D9115C,000000
+3,SORTA,3X,Montgomery Express - Job Connection,,3,,FF0000,000000
+30,SORTA,30X,Beechmont - 8 Mile Express,,3,,F04D69,000000
+31,SORTA,31,Crosstown - Queensgate - Evanston,,3,,F48F20,000000
+3101,SORTA,3101,Clifton/McMillan - Mt Washington,,3,,808040,000000
+3111,SORTA,3111,Clifton/McMillan - Winton,,3,,808040,000000
+3112,SORTA,3112,Clifton/McMillan - Mt Airy,,3,,808040,000000
+3113,SORTA,3113,Clifton/McMillan - Colerain,,3,,808040,000000
+3114,SORTA,3114,Clifton/McMillan - Daly,,3,,808040,000000
+3121,SORTA,3121,Clifton/McMillan - Madisonville,,3,,808040,000000
+3122,SORTA,3122,Clifton/McMillan - Bramble,,3,,808040,000000
+3131,SORTA,3131,Clifton/McMillan - Roll Hill,,3,,808040,000000
+3132,SORTA,3132,Clifton/McMillan - Westwood,,3,,808040,000000
+3141,SORTA,3141,Clifton/McMillan - Evanston,,3,,808040,000000
+3142,SORTA,3142,Clifton/McMillan - Avondale,,3,,808040,000000
+3151,SORTA,3151,Clifton/McMillan - Price Hill,,3,,808040,000000
+3152,SORTA,3152,Clifton/McMillan - West 8th,,3,,808040,000000
+3153,SORTA,3153,Clifton/McMillan - Covedale,,3,,808040,000000
+3161,SORTA,3161,Clifton/McMillan - Roselawn,,3,,808040,000000
+3162,SORTA,3162,Clifton/McMillan - Hartwell,,3,,808040,000000
+3163,SORTA,3163,Clifton/McMillan - Golf Manor,,3,,808040,000000
+3171,SORTA,3171,Clifton/McMillan - Kennedy Heights,,3,,808040,000000
+3172,SORTA,3172,Clifton/McMillan - Pleasant Ridge,,3,,808040,000000
+3191,SORTA,3191,Clifton/McMillan - Mt Auburn,,3,,808040,000000
+3192,SORTA,3192,Clifton/McMillan - West End,,3,,808040,000000
+32,SORTA,32,Price Hill - Delhi - Sayler Park,,3,,E17600,000000
+33,SORTA,33,Glenway Avenue,,3,,FF8040,000000
+3311,SORTA,3311,Ferguson - College Hill - Daly,,3,,04B750,000000
+3312,SORTA,3312,Ferguson - Cheviot - Robin Hill,,3,,04B750,000000
+3313,SORTA,3313,Ferguson - Millvale,,3,,04B750,000000
+3314,SORTA,3314,Ferguson - North Bend,,3,,04B750,000000
+3315,SORTA,3315,Ferguson - College Hill - Argus,,3,,04B750,000000
+3316,SORTA,3316,Ferguson - Cheviot,,3,,04B750,000000
+3317,SORTA,3317,Ferguson - Winton,,3,,04B750,000000
+3331,SORTA,3331,Ferguson - Millvale - Lafeuille,,3,,04B750,000000
+3332,SORTA,3332,Ferguson - Harrison Ave,,3,,04B750,000000
+3333,SORTA,3333,Ferguson - Roll Hill,,3,,04B750,000000
+3334,SORTA,3334,Ferguson - Fairmount,,3,,04B750,000000
+3335,SORTA,3335,Ferguson - Queen City,,3,,04B750,000000
+3336,SORTA,3336,Ferguson - Baltimore,,3,,04B750,000000
+3341,SORTA,3341,Ferguson - Mt Auburn,,3,,04B750,000000
+3342,SORTA,3342,Ferguson - Walnut Hills - Evanston,,3,,04B750,000000
+3351,SORTA,3351,Ferguson - Price Hill,,3,,04B750,000000
+3352,SORTA,3352,Ferguson - East Price Hill,,3,,04B750,000000
+3353,SORTA,3353,Ferguson - Lower Price Hill,,3,,04B750,000000
+3354,SORTA,3354,Ferguson - Central Pkwy,,3,,04B750,000000
+3371,SORTA,3371,Ferguson - Bond Hill - Silverton,,3,,04B750,000000
+3381,SORTA,3381,Ferguson - Sayler Park,,3,,04B750,000000
+3382,SORTA,3382,Ferguson - Delhi,,3,,04B750,000000
+3383,SORTA,3383,Ferguson - Covedale,,3,,04B750,000000
+3391,SORTA,3391,Ferguson - Mt Auburn - Vine,,3,,04B750,000000
+3392,SORTA,3392,Ferguson - Downtown,,3,,04B750,000000
+38,SORTA,38X,Glenway Crossing - Uptown,,3,,DA4925,000000
+4,SORTA,4,Kenwood - Blue Ash - Ridge Rd,,3,,7D67FE,000000
+40,SORTA,40X,Montana Avenue Express,,3,,FF0000,000000
+4001,SORTA,4001,Jonathan - Linwood - Beechmont,,3,,8AD51C,000000
+4002,SORTA,4002,Jonathan - Hershal - Eastern,,3,,8AD51C,000000
+4003,SORTA,4003,Jonathan - Kellogg - Jonathan,,3,,8AD51C,000000
+4004,SORTA,4004,Jonathan - Columbia Pk - Beechmont,,3,,8AD51C,000000
+4011,SORTA,4011,Jonathan - Cumminsville - College H,,3,,8AD51C,000000
+4012,SORTA,4012,Jonathan - Ludlow - College Hill,,3,,8AD51C,000000
+4013,SORTA,4013,Jonathan - Winton - College Hill,,3,,8AD51C,000000
+4014,SORTA,4014,Jonathan - Ludlow - Mt Airy,,3,,8AD51C,000000
+4021,SORTA,4021,Jonathan - Madison Rd - Madisonvill,,3,,8AD51C,000000
+4022,SORTA,4022,Jonathan - Marburg - Madisonville,,3,,8AD51C,000000
+4023,SORTA,4023,Jonathan - Erie - Madisonville,,3,,8AD51C,000000
+4031,SORTA,4031,Jonathan - MLK - Westwood Northern,,3,,8AD51C,000000
+4032,SORTA,4032,Jonathan - McMillan - Harrison,,3,,8AD51C,000000
+4033,SORTA,4033,Jonathan - McMillan - Queen City,,3,,8AD51C,000000
+4034,SORTA,4034,Jonathan - Ludlow - Cheviot,,3,,8AD51C,000000
+4041,SORTA,4041,Jonathan - Avondale - Clifton,,3,,8AD51C,000000
+4051,SORTA,4051,Jonathan - Fairmount - Price Hill,,3,,8AD51C,000000
+4052,SORTA,4052,Jonathan- Walnut Hills -Price Hill,,3,,8AD51C,000000
+4061,SORTA,4061,Jonathan - Paddock - Hartwell,,3,,8AD51C,000000
+4062,SORTA,4062,Jonathan - Paddock - Roselawn,,3,,8AD51C,000000
+4063,SORTA,4063,Jonathan - Bond Hill - Pleasant Rid,,3,,8AD51C,000000
+4071,SORTA,4071,Jonathan - Amberley - Roselawn,,3,,8AD51C,000000
+4072,SORTA,4072,Jonathan - Bond Hill - Silverton,,3,,8AD51C,000000
+4073,SORTA,4073,Jonathan - Kennedy Hts - Silverton,,3,,8AD51C,000000
+4081,SORTA,4081,Jonathan - OTR - Sayler Park,,3,,8AD51C,000000
+41,SORTA,41,Crosstown: Westwood - Oakley,,3,,B75851,000000
+4131,SORTA,4131,Montfort Hts - Cheviot - Covedale,,3,,B1E21D,000000
+42,SORTA,42X,West Chester Express,,3,,FE4929,000000
+43,SORTA,43,Reading Rd-Winton Hills-Bond Hill,,3,,0E70E7,000000
+4311,SORTA,4311,Seymour - N Avondale - Winton Ter,,3,,02A862,000000
+4312,SORTA,4312,Seymour - Hamilton - Colerain,,3,,02A862,000000
+4313,SORTA,4313,Seymour - Winton Ter - E Westwood,,3,,02A862,000000
+4321,SORTA,4321,Seymour - Golf MAnor - Madisonville,,3,,02A862,000000
+4331,SORTA,4331,Seymour - Millvale - Harrison,,3,,02A862,000000
+4341,SORTA,4341,Seymour - Avondale - Evanston,,3,,02A862,000000
+4342,SORTA,4342,Seymour - N Avondale - Walnut Hills,,3,,02A862,000000
+4343,SORTA,4343,Seymour - Avondale - Mt Auburn,,3,,02A862,000000
+4344,SORTA,4344,Seymour - Avondale - Walnut Hills,,3,,02A862,000000
+4345,SORTA,4345,Seymour - Reading Rd.,,3,,02A862,000000
+4351,SORTA,4351,Seymour - Queen City - Glenway,,3,,02A862,000000
+4361,SORTA,4361,Seymour - Hartwell,,3,,02A862,000000
+4371,SORTA,4371,Seymour - Golf Manor - Montgomery,,3,,02A862,000000
+4391,SORTA,4391,Seymour - Golf Manor - Montgomery,,3,,02A862,000000
+46,SORTA,46,Avondale - Corryville - Zoo,,3,,6A7DC1,000000
+49,SORTA,49,Fairmount - English Woods,,3,,88513E,000000
+4911,SORTA,4911,Ezzard Charles-Cumminsville-Mt Airy,,3,,2E9276,000000
+4912,SORTA,4912,Ezzard Charles-Winton Terrace,,3,,2E9276,000000
+4931,SORTA,4931,Ezzard Charles-Westwood-Cheviot,,3,,2E9276,000000
+4932,SORTA,4932,Ezzard Charles-Roll Hill,,3,,2E9276,000000
+4941,SORTA,4941,Ezzard Charles-Evanston,,3,,2E9276,000000
+4951,SORTA,4951,Ezzard Charles-East Price Hill,,3,,2E9276,000000
+4952,SORTA,4952,Ezzard Charles-West Price Hill,,3,,2E9276,000000
+4961,SORTA,4961,Ezzard Charles-Roselawn,,3,,2E9276,000000
+50,SORTA,50,River Road - Sayler Park,,3,,DE9430,000000
+5081,SORTA,5081,8th&State - River Rd - Saylor Park,,3,,63F004,000000
+51,SORTA,51,Glenway Crossing - Hyde Park Oakley,,3,,63C7DC,000000
+5111,SORTA,5111,Duck Creek - Winton - West End,,3,,609E0A,000000
+5112,SORTA,5112,Duck Creek - Clifton - College Hill,,3,,609E0A,000000
+5121,SORTA,5121,Duck Creek - Madisonville,,3,,609E0A,000000
+5122,SORTA,5122,Duck Creek - Walnut Hills - Madison,,3,,609E0A,000000
+5131,SORTA,5131,Duck Creek - Mt Auburn - Fairmount,,3,,609E0A,000000
+5132,SORTA,5132,Duck Creek - Price Hill - Fairmount,,3,,609E0A,000000
+5141,SORTA,5141,Duck Creek - Kennedy Hts - Evanston,,3,,609E0A,000000
+5142,SORTA,5142,Duck Creek - Kennedy - Walnut Hills,,3,,609E0A,000000
+5161,SORTA,5161,Duck Creek - Roselawn,,3,,609E0A,000000
+5162,SORTA,5162,Duck Creek - Kennedy - Bond Hill,,3,,609E0A,000000
+5163,SORTA,5163,Duck Greek - Golf Manor - Avondale,,3,,609E0A,000000
+5164,SORTA,5164,Duck Creek - Golf Manor - Walnut,,3,,609E0A,000000
+5171,SORTA,5171,Duck Creek - Madison - Silverton,,3,,609E0A,000000
+5172,SORTA,5172,Duck Creek - Madison - Kennedy Hts,,3,,609E0A,000000
+52,SORTA,52X,Harrison Express,,3,,FF4FFF,000000
+6,SORTA,6,Queen City - Westwood,,3,,EC7A35,000000
+64,SORTA,64,Glenway Crossing Westwood McMicken,,3,,B16934,000000
+67,SORTA,67X,Sharonville Blue Ash Job Connection,,3,,F34180,000000
+71,SORTA,71X,Warren County Express Kings Island,,3,,F23C60,000000
+74,SORTA,74X,Colerain Express,,3,,FA123A,000000
+75,SORTA,75X,Anderson Express,,3,,FF337A,000000
+77,SORTA,77X,Delhi Express - Glenway Crossing,,3,,FF2BC5,000000
+78,SORTA,78,Tri - County - Lincoln Heights,,3,,2998DA,000000
+7811,SORTA,7811,Vine - Orchard - College Hill,,3,,4EFD02,000000
+81,SORTA,81X,Mt. Washington Express,,3,,CA0FA5,000000
+82,SORTA,82X,Eastgate Express,,3,,F73364,000000
+85,SORTA,85,Riverfront Parking Shuttle,,3,,A644A8,000000
+90,SORTA,M+,MetroPlus - Kenwood,,3,,00D700,000000
