@@ -11,3 +11,7 @@ import arcpy
 
 bufferDist = 200
 bufferDistUnit = "Meter"
+
+
+def selectBufferIntersect(selectIn,selectOut,bufferOut,intersectIn, intersectOut, sqlStatement, bufferDist, buffDistUnit, lineName, busSignage):
+    pass
