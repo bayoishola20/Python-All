@@ -10,12 +10,14 @@ class Solution:
         digits = 0
         sign = -1
 
+        # check if less than 0, return -1
         if x < 0:
             sign = -1
         else:
             sign = 1
         
         num = sign * x
+
         while num:
             digits += 1
             num = num // 10
@@ -28,7 +30,7 @@ class Solution:
             num = num // 10
             digits -= 1
         
-        if answer > pow(2,31)-1:
+        if pow(2,31)-1 < answer:
             return 0
         else:
             return sign * answer
