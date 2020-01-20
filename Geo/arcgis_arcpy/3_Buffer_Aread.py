@@ -7,7 +7,7 @@ representative region around the bus stops. """
 # Windows Explorer: "C:\Projects\PacktDB.gdb\Chapter3Results\Intersect71Census"
 # Pythonic version: "C:/Projects/PacktDB.gdb/Chapter3Results/Intersect71Census"
 
-import arcpy
+import arcpy, csv
 
 bufferDist = 200
 bufferDistUnit = "Meter"
