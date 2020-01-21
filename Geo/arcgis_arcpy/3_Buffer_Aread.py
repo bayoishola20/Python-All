@@ -4,8 +4,8 @@ be buffered to create a representative region around each bus stop. The buffered
 then be intersected with census blocks to find out how many people are within each
 representative region around the bus stops. """
 
-# Windows Explorer: "C:\Projects\PacktDB.gdb\Chapter3Results\Intersect71Census"
-# Pythonic version: "C:/Projects/PacktDB.gdb/Chapter3Results/Intersect71Census"
+# Windows Explorer: "C:\Projects\PacktDB.gdb\Chapter3Results\Intersect71Census" <-- throws an exception error
+# Pythonic version: "C:/Projects/PacktDB.gdb/Chapter3Results/Intersect71Census" <- most appropriate way
 
 import arcpy, csv
 
