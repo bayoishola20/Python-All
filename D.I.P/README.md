@@ -12,7 +12,9 @@
 
 - [x] [**Two sum**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/6_DP_Two_Sum.py) : You are given a list of numbers, and a target number k. Return whether or not there are two numbers in the list that add up to k.
 
-- [x] [**Reverse Integer**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/7_DP_Reverse_Integer.py.py) : Write a function that reverses the digits a 32-bit signed integer, x. The function returns 0 when the reversed integer overflows.
+- [x] [**Reverse Integer**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/7_DP_Reverse_Integer.py) : Write a function that reverses the digits a 32-bit signed integer, x. The function returns 0 when the reversed integer overflows.
+
+- [x] [**Primes**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/8_DP_Primes.py) : Write a function that given a positive integer n, find all primes less than n.
 
 [bayoishola20](http://bayoishola20.github.io)
 
