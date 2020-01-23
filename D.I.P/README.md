@@ -16,6 +16,8 @@
 
 - [x] [**Primes**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/8_DP_Primes.py) : Write a function that given a positive integer n, find all primes less than n.
 
+- [x] [**Switch Case**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/9_DP_Switch_Case.py) : Write a function that given a string, returns the letters in uppercase as lowercase and vice-versa.
+
 [bayoishola20](http://bayoishola20.github.io)
 
 
