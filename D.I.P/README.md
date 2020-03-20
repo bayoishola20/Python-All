@@ -20,6 +20,8 @@
 
 - [x] [**Reverse Integer**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/10_DP_Reverse_Integer.py) : Given an integer, reverse the digits. Do not convert the integer into a string and reverse it.
 
+- [x] [**Minimum Removals Valid Parenthesis**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/11_DP_Minimum_Removals_Valid_Parenthesis.py) : Given a string of parenthesis, return the minimum number of parenthesis that would need to be removed in order to make the string valid. "Valid" means that each open parenthesis has a matching closed parenthesis.
+
 [bayoishola20](http://bayoishola20.github.io)
 
 
