@@ -24,6 +24,9 @@
 
 - [x] [**Majority Element**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/12_DP_Majority_Element.py) : Given a list with a majority element, find the majority element.
 
+- [x] [**Common Characters**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/13_DP_Common_Characters.py) : Given a list of strings, find the list of characters that appear in all strings.
+
+
 [bayoishola20](http://bayoishola20.github.io)
 
 
