@@ -1,4 +1,4 @@
-# Algo D.I.P
+# D.I.P Algorithms
 
 - [x] [**Reverse words**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/01_DP_Reverse_Words_List.py) - *String in List* : Given a list of words in a string, reverse the words in-place.
 
