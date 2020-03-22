@@ -1,8 +1,8 @@
 # D.I.P Algorithms
 
-- [x] [**Reverse words**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/01_DP_Reverse_Words_List.py) - *String in List* : Given a list of words in a string, reverse the words in-place.
+- [x] [**Reverse words (List)**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/01_DP_Reverse_Words_List.py) - *String in List* : Given a list of words in a string, reverse the words in-place.
 
-- [x] [**Reverse words**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/02_DP_Reverse_Words_String.py) - *String* : Given an input string, reverse the string word by word.
+- [x] [**Reverse words (String)**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/02_DP_Reverse_Words_String.py) - *String* : Given an input string, reverse the string word by word.
 
 - [x] [**Sum of Squares**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/03_DP_Sum_Squares.py) : Given a number n, find the least number of squares needed to sum up to the number.
 
@@ -26,6 +26,7 @@
 
 - [x] [**Common Characters**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/13_DP_Common_Characters.py) : Given a list of strings, find the list of characters that appear in all strings.
 
+- [x] [**Power Function**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/14_DP_Power_Function.py) : The power function calculates x raised to the nth power. Assume that n will be a non-negative integer.
 
 [bayoishola20](http://bayoishola20.github.io)
 
