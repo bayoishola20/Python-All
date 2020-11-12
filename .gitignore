@@ -1,4 +1,4 @@
 *.pyc
 config.py
 __pycache__
-.vscode/settings.json
+.vscode

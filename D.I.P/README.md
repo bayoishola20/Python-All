@@ -28,6 +28,9 @@
 
 - [x] [**Power Function**](https://github.com/bayoishola20/Python-All/blob/master/D.I.P/14_DP_Power_Function.py) : The power function calculates x raised to the nth power. Assume that n will be a non-negative integer.
 
+                        GOING FORWARD, PYTHON 3 WILL BE USED
+
+
 [bayoishola20](http://bayoishola20.github.io)
 
 
