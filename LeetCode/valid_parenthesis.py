@@ -7,10 +7,10 @@ class Solution:
         }
         complete = []
 
-        for i in s:             # loop keys of dict
-            if i in paren:
+        for i in s:                                                                 # loop through string
+            if i in paren:                                                          # check if item is a parenthesis "key"
                 complete.append(i)
-            elif (len(complete) == 0 or paren[complete.pop()] != i ):
+            elif (len(complete) == 0 or paren[complete.pop()] != i ):               # if complete is empty or by checking each 
                 return False 
         return True;
                 
