@@ -1,5 +1,6 @@
+# VALID PARENTHESIS
 class Solution:
-    def isValid(self, s: str) -> bool:
+    def isValid(self, s):
         paren = {
             '(': ')',
             '[': ']',

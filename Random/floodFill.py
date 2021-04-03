@@ -67,6 +67,6 @@ image, sr, sc, newColor = [[1,1,1],[1,1,0],[1,0,1]], 1, 1, 2
 
 a = Solution()
 
-print a.floodFill(image, sr, sc, newColor)
+print (a.floodFill(image, sr, sc, newColor))
 
 # last corner is one because we are only checking 4-directionally and not 8-directionally
